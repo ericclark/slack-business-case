@@ -1,3 +1,11 @@
+# Slack Business Case
+
+`Month YYYY`
+
+Written by
+
+`[Author(s)]`
+
 # Table of Contents
 
 - [Executive Summary](executive-summary.md)
